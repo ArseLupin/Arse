@@ -1,6 +1,7 @@
 body{
-    background: url(kevin.jpg);
-    background-size: 120%;
+    /*background: url(kevin.jpg);
+    background-size: 120%;*/
+    background-color: #f76304;
     font-size: 18px;
     line-height: 24px;
     font-weight: 400;
